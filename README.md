@@ -20,6 +20,12 @@ const sohail = {
 };
 ```
 
+### Built with
+
+<a href="https://sohailrana.com/work">
+  <img src="https://skillicons.dev/icons?i=astro,nextjs,ts,tailwind,react,figma,netlify,vercel,cloudflare,github&theme=dark" alt="Astro, Next.js, TypeScript, Tailwind CSS, React, Figma, Netlify, Vercel, Cloudflare, GitHub" />
+</a>
+
 ### Recent rebuilds
 
 | Project | The move | Result |
@@ -37,5 +43,9 @@ and a booking module used across 20+ branch sites.
 
 ---
 
-**[sohailrana.com](https://sohailrana.com)** · [All case studies](https://sohailrana.com/work) · [For agencies](https://sohailrana.com/agencies) · hello@sohailrana.com
-[Upwork](https://www.upwork.com/freelancers/~01de9d51fcee8a6c82) · [LinkedIn](https://www.linkedin.com/in/sohailrana07)
+<p>
+  <a href="https://sohailrana.com"><img src="https://img.shields.io/badge/sohailrana.com-A3E635?style=for-the-badge&logo=astro&logoColor=black" alt="sohailrana.com" /></a>
+  <a href="mailto:hello@sohailrana.com"><img src="https://img.shields.io/badge/Email-1f2937?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.upwork.com/freelancers/~01de9d51fcee8a6c82"><img src="https://img.shields.io/badge/Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
+  <a href="https://www.linkedin.com/in/sohailrana07"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
